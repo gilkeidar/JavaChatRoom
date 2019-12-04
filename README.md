@@ -1,4 +1,4 @@
-# JavaChatRoom
+# Java Chatroom
 Console chat room developed in Java. Uses sockets, multithreading, and a client-server model. Sockets work via port-forwarding.
 
 ## Running the chat
